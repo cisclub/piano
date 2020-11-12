@@ -149,6 +149,9 @@ const PianoSdk = {
         config.zone,
         config.referrer,
         config.url,
+        config.contentAuthor,
+        config.contentCreated,
+        config.contentSection,
         config.customVariables,
         config.userToken,
         config.showLoginHandler()
