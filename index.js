@@ -153,9 +153,7 @@ const PianoSdk = {
         config.contentCreated,
         config.contentSection,
         config.customVariables,
-        config.userToken,
-        config.showLoginHandler,
-        config.showTemplateHandler
+        config.userToken
       );
     }
   },
